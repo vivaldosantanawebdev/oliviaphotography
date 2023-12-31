@@ -1,0 +1,181 @@
+
+body {
+  padding-top: 120px;
+}
+
+.photographer-container button {
+  background-color: aqua; 
+  color: #153535; 
+}
+
+.photographer-container button:hover {
+  background-color: #153535; 
+  color: aqua; 
+}
+
+h1 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* HEADER */
+header {
+  background-color: #c6d3d7;
+}
+
+.navbar-nav .nav-item.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.nav-item {
+  padding: 0px 5px;
+
+}
+
+.menu li a  {
+  color: #3f5d63;
+}
+
+.menu li a:hover  {
+  color: rgb(0, 0, 0);
+}
+
+.logo {
+ padding-top: 10px;
+ padding-bottom: 10px;
+}
+
+
+.social-box {
+  background-color: rgb(243, 238, 238);
+}
+
+/* Social Icons buttons */
+.icons {
+  font-size: 40px;
+}
+
+.link-icon {
+  margin-right: 15px;
+  color: #3f5d63
+}
+
+.link-icon:hover {
+  margin-right: 15px;
+  color: rgb(0, 0, 0);
+}
+
+/* Carousel */
+
+.title-banner {
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.glass-container {
+  background: rgba(255, 255, 255, 0.2); /* Cor de fundo com transparência para o efeito de vidro */
+  padding: 5px;
+  border-radius: 10px;
+  backdrop-filter: blur(5px); /* Adiciona o efeito de vidro com desfoque */
+  text-align: center;
+}
+
+.p-banner {
+  color: black;
+  font-size: 16pt;
+  text-align: center;
+}
+
+/* Section Photographer */
+.photographer-box {
+  margin-bottom: 80px;
+}
+
+/* Section Studio */
+p {
+  font-size: 14pt;
+  text-align: justify;
+}
+
+.studio-container {
+  background-color: #c6d3d7 ;
+  padding-top:20px;
+  padding-bottom: 40px;
+  margin-top: 20px;
+
+}
+
+#counter {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+.container-counter i {
+  font-size: 50px;
+  font-weight: bold;
+
+}
+
+.sessions {
+  background-color: #3f5d63 ;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  padding-bottom: 20px;
+}
+
+.container-counter {
+  margin-top: 60px;
+}
+
+.container-counter h1 {
+  color: whitesmoke;
+}
+
+.content-box p {
+  text-align: center;
+}
+
+.content-box {
+  color: aqua;
+  font-size: 1.6rem;
+  text-align: center;
+}
+
+
+.session-cards {
+  margin-bottom: 60px;
+}
+
+
+.number {
+  font-size: 3rem;
+}
+
+.card img {
+  padding-top: 10px;
+}
+
+.card h5 {
+  text-align: center;
+}
+
+.session-cards button {
+  background-color: aqua;
+  border-color: aqua; 
+  color: #153535; 
+}
+
+.session-cards button:hover {
+  
+  
+  background-color: #153535;
+  border-color: #153535;
+  color: aqua; 
+}
+
+
+.card p {
+  text-align:center ;
+}
+

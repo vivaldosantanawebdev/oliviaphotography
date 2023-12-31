@@ -1,0 +1,127 @@
+body {
+  position: relative;
+  margin: 0px;
+  width: 100%;
+}
+  .navbar-nav .nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+  }
+
+  .test {
+    background-color: rgb(230, 236, 233);
+  }
+
+  .navbar {
+    background-color: rgb(230, 236, 233);
+    
+  }
+
+  .nav-item {
+    padding: 0px 5px;
+  
+  }
+
+.container-test {
+  background-color: blue;
+  width: 100%;
+  padding-right: 0;
+  padding-left: 0;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+
+
+.carousel-inner {
+  height: 100%;
+}
+
+.carousel-item {
+  height: 100%;
+}
+
+.row {
+margin: 0px;
+padding-bottom: 12px;
+padding-top: 12px;
+}
+
+
+
+.icons {
+  font-size: 40px;
+  
+}
+
+.link-icon {
+  margin-right: 15px;
+  color: gray;
+}
+
+.link-icon:hover {
+  margin-right: 15px;
+  color: rgb(70, 69, 69);
+}
+
+.title-banner {
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.glass-container {
+  background: rgba(255, 255, 255, 0.2); /* Cor de fundo com transparência para o efeito de vidro */
+  padding: 5px;
+  border-radius: 10px;
+  backdrop-filter: blur(5px); /* Adiciona o efeito de vidro com desfoque */
+  text-align: center;
+}
+
+.p-banner {
+  color: black;
+  font-size: 16pt;
+  text-align: center;
+}
+
+.olivia-photo {
+  width: 20%;
+}
+
+p {
+  font-size: 14pt;
+  text-align: justify;
+}
+
+.img-olivia img {
+  box-shadow: rgba(0, 0, 0, 0.40) 0px 4px 12px;
+  border-radius: 5px;
+}
+
+.studio {
+  background-color: rgb(230, 236, 233);
+  margin: 0;
+}
+
+.img-studio img {
+  box-shadow: rgba(0, 0, 0, 0.40) 0px 4px 12px;
+  padding: 20px;
+}
+
+#studio-paragraph {
+  padding-left: 20px;
+  padding-right: 2opx;
+}
+
+h2 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.studio-content {
+  padding-bottom: 40px;
+}
+
+.mapbox {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
